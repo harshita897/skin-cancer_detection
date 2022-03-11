@@ -1,2 +1,5 @@
-# skin-cancer_detection
-Diagnosis of skin cancer detection via using three different methods
+# Dermatology-Image-Classification
+ The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions.
+ 
+ ![Datasets](category_samples.png)
+"# Skin-cancer_detection" 
